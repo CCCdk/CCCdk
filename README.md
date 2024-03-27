@@ -1,12 +1,13 @@
 #  Hey! Nice to see you.👋 I'm CCCdk！
 
-🎈Hello! I am CCCdk, welcome to my little world!
+🎈 welcome to my little world!
 
 🔎I love **the front end**! Of course, I'm also passionate about learning **algorithms** and **artificial intelligence**
 
 🥳I hope in my warehouse, you can find everything you want to see!！
 
-
+- 💼 any freelance work? do reach :)
+- 💬 ask me about anything, I am happy to help;
 
 # 今年汇总 ✨
 
