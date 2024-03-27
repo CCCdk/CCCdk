@@ -1,4 +1,8 @@
-### Hi there 👋 I'm CCCdk！
+## Hi there 👋 I'm CCCdk！
+
+🎈Hello! I am CCCdk, welcome to my little world!
+
+
 
 ## 今年汇总 ✨
 
