@@ -1,4 +1,4 @@
-#  Hey! Nice to see you.👋 I'm CCCdk！
+# Hey! Nice to see you.👋 I'm CCCdk！<img src="./img/cat.gif" alt="Meaow" width="50" />
 
 🎈 welcome to my little world!
 
@@ -8,6 +8,17 @@
 
 - 💼 any freelance work? do reach :)
 - 💬 ask me about anything, I am happy to help;
+
+<img align="right" alt="GIF" src="./img/code.gif?raw=true" width="500" height="320" />
+
+# Languages
+
+<code><img height="20" src="./img/javascript.png"></code>
+<code><img height="20" src="./img/vue.png"></code>
+<code><img height="20" src="./img/react.png"></code>
+<code><img height="20" src="./img/nodejs.png"></code>
+<code><img height="20" src="./img/mysql.png"></code>
+<code><img height="20" src="./img/git.png"></code>
 
 # 今年汇总 ✨
 
