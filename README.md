@@ -17,7 +17,6 @@
 <code><img height="20" src="./img/vue.png"></code>
 <code><img height="20" src="./img/react.png"></code>
 <code><img height="20" src="./img/nodejs.png"></code>
-<code><img height="20" src="./img/mysql.png"></code>
 <code><img height="20" src="./img/git.png"></code>
 
 # 今年汇总 ✨
