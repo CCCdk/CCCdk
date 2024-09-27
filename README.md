@@ -9,6 +9,9 @@
 - 💼 any freelance work? do reach :)
 - 💬 ask me about anything, I am happy to help;
 
+Internship：
+- bilibili -- Cross-platform technology department - Fawkes - Front-end infrastructure --- From 2024.8 to Now .
+
 <img align="right" alt="GIF" src="./img/code.gif?raw=true" width="500" height="320" />
 
 # Languages
