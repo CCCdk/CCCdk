@@ -9,8 +9,21 @@
 - 💼 any freelance work? do reach :)
 - 💬 ask me about anything, I am happy to help;
 
+Website construction：
+- Spreading clouds - GPT Feature - initiation
+
+  address：https://www.jdygpt.com/
+![image](https://github.com/user-attachments/assets/6a9089dd-a7f2-48da-8d50-e7ad9e4f8ce2)
+
+- CodeFlow - Algorithm club - initiation
+
+- address：http://oj.jdygpt.com/
+
+🎈If you are interested in our project, you can contact me to work together!！
+
 Internship：
 - bilibili -- Cross-platform technology department - Fawkes - Front-end infrastructure --- From 2024.8 to Now .
+
 
 <img align="right" alt="GIF" src="./img/code.gif?raw=true" width="500" height="320" />
 
