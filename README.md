@@ -1,4 +1,4 @@
-# Hey! Nice to see you.👋 I'm CCCdk！<img src="./img/cat.gif" alt="Meaow" width="50" />
+# Hey! Nice to see you.👋 I'm ice_dk！<img src="./img/cat.gif" alt="Meaow" width="50" />
 
 🎈 welcome to my little world!
 
