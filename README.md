@@ -19,6 +19,8 @@ Website construction：
 
 - address：http://oj.jdygpt.com/
 
+![image](https://github.com/user-attachments/assets/83c2d21d-941e-4bfb-b6a4-11583b3e6e66)
+
 🎈If you are interested in our project, you can contact me to work together!！
 
 Internship：
