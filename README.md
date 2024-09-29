@@ -9,8 +9,20 @@
 - 💼 any freelance work? do reach :)
 - 💬 ask me about anything, I am happy to help;
 
-Internship：
-- bilibili -- Cross-platform technology department - Fawkes - Front-end infrastructure --- From 2024.8 to Now .
+😀**Internship**：
+- <div align="left"><img align="center" src="https://github.com/user-attachments/assets/a8e6d954-fa4b-47b0-91bf-565f1c5e2341" height="20px"> bilibili -- Cross-platform technology department - Fawkes - Front-end infrastructure --- From 2024.8 to Now .</div> 
+
+😀**community**:
+
+- lemonade-lab - alemonjs
+- 
+  address: https://alemonjs.com/
+
+
+<div align="center">
+    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=CCCdk&theme=tokyonight&show_icons=true" height="170px">
+    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=CCCdk&layout=compact&theme=tokyonight" height="170px">
+<div>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CCCdk/CCCdk/output/github-contribution-grid-snake-dark.svg">
@@ -18,25 +30,28 @@ Internship：
   <img alt="github-snake" src="https://raw.githubusercontent.com/CCCdk/CCCdk/output/github-contribution-grid-snake.svg" />
 </picture>
 
-<br/>
-
-# Summary ✨
-
-<img align="center" height="137px" src="https://github-readme-stats.vercel.app/api?username=CCCdk&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite&locale=cn" /><img align="center" height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CCCdk&hide_title=true&hide_border=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite&locale=cn" />
-
+<div align="left">
 Website construction：
-- Spreading clouds - GPT Feature - initiation
+
+- **Spreading clouds** - GPT Feature - initiation
 
   address：https://www.jdygpt.com/
-![image](https://github.com/user-attachments/assets/6a9089dd-a7f2-48da-8d50-e7ad9e4f8ce2)
+<div>
 
-- CodeFlow - Algorithm club - initiation
+<img align="mid" src="https://github.com/user-attachments/assets/6a9089dd-a7f2-48da-8d50-e7ad9e4f8ce2" />
 
-- address：http://oj.jdygpt.com/
+<div align="left">
 
-![image](https://github.com/user-attachments/assets/83c2d21d-941e-4bfb-b6a4-11583b3e6e66)
+- **CodeFlow** - Algorithm club - initiation
 
-🎈If you are interested in our project, you can contact me to work together!！
+  address：http://oj.jdygpt.com/
+
+<div>
+
+<img align="mid" src="https://github.com/user-attachments/assets/83c2d21d-941e-4bfb-b6a4-11583b3e6e66" />
+
+
+😎If you are interested in our project, you can contact me to work together!！
 
 <img align="right" alt="GIF" src="./img/code.gif?raw=true" width="500" height="320" />
 
