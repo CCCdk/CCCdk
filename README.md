@@ -10,7 +10,8 @@
 - 💬 ask me about anything, I am happy to help;
 
 💭**Blog**：[CCCdk's Blog | ice_dk](http://43.136.77.22/)
-💭**JueJin**：[ice_dk'juejin]([http://43.136.77.22/](https://juejin.cn/user/2881200123551565))
+
+💭**Juejin**：[ice_dk'juejin](https://juejin.cn/user/2881200123551565)
 
 
 😀**Internship**：
