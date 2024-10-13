@@ -10,6 +10,8 @@
 - 💬 ask me about anything, I am happy to help;
 
 💭**Blog**：[CCCdk's Blog | ice_dk](http://43.136.77.22/)
+💭**JueJin**：[ice_dk'juejin]([http://43.136.77.22/](https://juejin.cn/user/2881200123551565))
+
 
 😀**Internship**：
 - <div align="left"><img align="center" src="https://github.com/user-attachments/assets/a8e6d954-fa4b-47b0-91bf-565f1c5e2341" height="20px"> bilibili -- Cross-platform technology department - Fawkes - Front-end infrastructure --- From 2024.8 to Now .</div> 
