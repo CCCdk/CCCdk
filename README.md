@@ -11,7 +11,7 @@
 
 💭**Blog**：[CCCdk's Blog | ice_dk](http://43.136.77.22/)
 
-💭**Juejin**：[ice_dk'juejin](https://juejin.cn/user/2881200123551565)
+💭**Juejin**：[ice_dk's Juejin](https://juejin.cn/user/2881200123551565)
 
 
 😀**Internship**：
