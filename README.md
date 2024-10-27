@@ -9,20 +9,11 @@
 - 💼 any freelance work? do reach :)
 - 💬 ask me about anything, I am happy to help;
 
-💭**Blog**：[CCCdk's Blog | ice_dk](http://43.136.77.22/)
-
 💭**Juejin**：[ice_dk's Juejin](https://juejin.cn/user/2881200123551565)
 
 
 😀**Internship**：
 - <div align="left"><img align="center" src="https://github.com/user-attachments/assets/a8e6d954-fa4b-47b0-91bf-565f1c5e2341" height="20px"> bilibili -- Cross-platform technology department - Fawkes - Front-end infrastructure --- From 2024.8 to Now .</div> 
-
-😀**Community**:
-
-- lemonade-lab - alemonjs
-- 
-  address: https://alemonjs.com/
-
 
 <div align="center">
     <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=CCCdk&theme=tokyonight&show_icons=true" height="170px">
