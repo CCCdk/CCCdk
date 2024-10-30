@@ -27,25 +27,18 @@
 </picture>
 
 <div align="left">
+    
 Website construction：
 
-- **Spreading clouds** - GPT Feature - initiation
+- **Spreading clouds** - GPT Feature
 
-  address：https://www.jdygpt.com/
-<div>
+- **CodeFlow** - Algorithm club
 
-<img align="mid" src="https://github.com/user-attachments/assets/6a9089dd-a7f2-48da-8d50-e7ad9e4f8ce2" />
-
-<div align="left">
-
-- **CodeFlow** - Algorithm club - initiation
-
-  address：http://oj.jdygpt.com/
+- **alemonjs** - robot feature
 
 <div>
 
-<img align="mid" src="https://github.com/user-attachments/assets/83c2d21d-941e-4bfb-b6a4-11583b3e6e66" />
-
+✌🏻I love open source!! I also hope to have my own open source project one day ~
 
 😎If you are interested in our project, you can contact me to work together!！
 
