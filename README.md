@@ -41,13 +41,3 @@ Website construction：
 ✌🏻I love open source!! I also hope to have my own open source project one day ~
 
 😎If you are interested in our project, you can contact me to work together!！
-
-<img align="right" alt="GIF" src="./img/code.gif?raw=true" width="500" height="320" />
-
-# Languages
-
-<code><img height="20" src="./img/javascript.png"></code>
-<code><img height="20" src="./img/vue.png"></code>
-<code><img height="20" src="./img/react.png"></code>
-<code><img height="20" src="./img/nodejs.png"></code>
-<code><img height="20" src="./img/git.png"></code>
