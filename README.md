@@ -13,7 +13,7 @@
 
 
 😀**Internship**：
-- <div align="left"><img align="center" src="https://github.com/user-attachments/assets/a8e6d954-fa4b-47b0-91bf-565f1c5e2341" height="20px"> bilibili -- Cross-platform technology department - Fawkes - Front-end infrastructure --- From 2024.8 to Now .</div> 
+- <div align="left"><img align="center" src="https://github.com/user-attachments/assets/a8e6d954-fa4b-47b0-91bf-565f1c5e2341" height="20px"> bilibili -- Cross-platform technology department - Fawkes - Front-end infrastructure --- From 2024.8 to 2024.12 .</div> 
 
 <div align="center">
     <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=CCCdk&theme=tokyonight&show_icons=true" height="170px">
