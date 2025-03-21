@@ -13,7 +13,7 @@
 
 
 😀**Internship**：
-- <div align="left"><img align="center" src="https://github.com/user-attachments/assets/b5c9e2a2-1c5b-4204-ba30-26cb9c5fd990" height="20px"> 网易 -- 美泰JV事业部 - Front-end infrastructure --- From 2025.1 to 至今 .</div> 
+- <div align="left"><img align="center" src="https://github.com/user-attachments/assets/b5c9e2a2-1c5b-4204-ba30-26cb9c5fd990" height="20px"> 网易 -- Mattel163 - Front-end infrastructure --- From 2025.1 to now .</div> 
 
 - <div align="left"><img align="center" src="https://github.com/user-attachments/assets/a8e6d954-fa4b-47b0-91bf-565f1c5e2341" height="20px"> bilibili -- Fawkes - Front-end infrastructure --- From 2024.8 to 2024.12 .</div> 
 
