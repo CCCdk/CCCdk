@@ -13,7 +13,9 @@
 
 
 😀**Internship**：
-- <div align="left"><img align="center" src="https://github.com/user-attachments/assets/b5c9e2a2-1c5b-4204-ba30-26cb9c5fd990" height="20px"> NetEase -- Mattel163 - Front-end infrastructure --- From 2025.1 to now .</div> 
+- <div align="left"><img align="center" src="https://github.com/user-attachments/assets/ce744c6e-7ff8-4a0d-8177-f2b1ef19516a" height="20px"> Tencent -- IEG - Front-end infrastructure --- From 2025.5 to now .</div> 
+
+- <div align="left"><img align="center" src="https://github.com/user-attachments/assets/b5c9e2a2-1c5b-4204-ba30-26cb9c5fd990" height="20px"> NetEase -- Mattel163 - Front-end infrastructure --- From 2025.1 to 2025.4 .</div> 
 
 - <div align="left"><img align="center" src="https://github.com/user-attachments/assets/a8e6d954-fa4b-47b0-91bf-565f1c5e2341" height="20px"> bilibili -- Fawkes - Front-end infrastructure --- From 2024.8 to 2024.12 .</div> 
 
