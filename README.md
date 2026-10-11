@@ -1,6 +1,6 @@
 # Hey! Nice to see you.👋 I'm ice_dk！<img src="./img/cat.gif" alt="Meaow" width="50" />
 
-🎈 welcome to my little world!!!！
+🎈 welcome to my little world!!
 
 🔎I love **the front end**! Of course, I'm also passionate about learning **algorithms** and **artificial intelligence**
 
